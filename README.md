@@ -122,17 +122,6 @@
 
 <br/>
 
----
-
-## 📈 &nbsp;Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffreyryan2005&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1f2937&hide_border=true&radius=6" width="100%"/>
-</div>
-
-<br/>
-
----
 
 ## 🐍 &nbsp;Contribution Snake
 
