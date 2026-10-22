@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=780&height=48&lines=Software+Developer+%E2%80%A2+Full+Stack+%E2%80%A2+AI+Builder+%F0%9F%9A%80;Built+Zoho+extensions+for+Desk%2C+CRM+%26+Bigin+%E2%9C%85;%F0%9F%A5%87+1st+Place+%E2%80%94+VISAI+2026+Hackathon%2C+Vali+Tech+Chennai;PromptWars+%E2%80%A2+ISRO+%E2%80%A2+Microsoft+Hackathon+veteran+%F0%9F%8F%86" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=780&height=48&lines=Software+Developer+%E2%80%A2+Full+Stack+%E2%80%A2+AI+Builder+%F0%9F%9A%80;Built+Zoho+extensions+for+Desk%2C+CRM+%26+Bigin+%E2%9C%85;%F0%9F%A5%87+1st+Place+%E2%80%94+VISAI+2026+Hackathon%2C+Vel+Tech+Chennai;PromptWars+%E2%80%A2+ISRO+%E2%80%A2+Microsoft+Hackathon+veteran+%F0%9F%8F%86" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -48,7 +48,7 @@
 
 Software Developer and final-year CS & Engineering student with hands-on experience across **four internships** — Zoho Corporation, Digisailor, AdroIT Technologies, and Infosys Springboard. Specialized in full-stack architecture, API integrations, and building production-grade extensions and AI solutions (engineered custom marketplace extensions for **Zoho Desk**, **CRM**, and **Bigin** using ZET and OAuth 2.0).
 
-Beyond internships, I actively build & compete — won **🥇 1st Place at VISAI 2026** (Vali Tech Chennai) with an AI-powered email triage system, and delivered top solutions across PromptWars, ISRO's Bharatiya Antariksh, and Microsoft Agents League challenges.
+Beyond internships, I actively build & compete — won **🥇 1st Place at VISAI 2026** (Vel Tech Chennai) with an AI-powered email triage system, and delivered top solutions across PromptWars, ISRO's Bharatiya Antariksh, and Microsoft Agents League challenges.
 
 &nbsp;&nbsp;&nbsp;&nbsp;📍 &nbsp;Tirunelveli, Tamil Nadu, India &nbsp;|&nbsp; 🎓 &nbsp;B.E. CSE @ SCAD CoET (2023–27) &nbsp;|&nbsp; CGPA: **7.6**
 
@@ -120,7 +120,7 @@ Beyond internships, I actively build & compete — won **🥇 1st Place at VISAI
 
 | 🏗️ Project | 📋 What It Does | 🛠️ Stack |
 |:-----------|:---------------|:---------|
-| [**📧 AI Email Triage System**](https://github.com/Jeffreyryan2005) | AI email classification system for automated ticket routing. **🥇 1st Place — VISAI 2026 Hackathon**, Vali Tech Chennai. | `Python` `FastAPI` `TF-IDF` `VADER` `ML` |
+| [**📧 AI Email Triage System**](https://github.com/Jeffreyryan2005) | AI email classification system for automated ticket routing. **🥇 1st Place — VISAI 2026 Hackathon**, Vel Tech Chennai. | `Python` `FastAPI` `TF-IDF` `VADER` `ML` |
 | [**🎉 CelebrationAI**](https://github.com/Jeffreyryan2005) | Real-time AI event planner — budget engine, milestone timelines, vendor pipeline. Enterprise-grade: CSP, rate limiting, Zod validation, **120 passing tests**. | `Next.js 16` `TypeScript` `Gemini 2.5 Flash` `Tailwind` |
 | [**🛒 Amazon Market Gap Detector**](https://github.com/Jeffreyryan2005) | ML-powered market analysis via RapidAPI live data. Predicts business opportunities using TF-IDF similarity, VADER sentiment & weighted scoring. | `FastAPI` `React` `Python` `scikit-learn` |
 | [**🧭 SkillForge**](https://github.com/Jeffreyryan2005) | AI Career Skill Gap Analyzer — skill match score, radar chart, personalized 30-day plan. Built solo in **~2 days** at Microsoft Agents League 2026. | `Next.js 14` `Flask` `Groq LLaMA 3.3 70B` `Framer Motion` |
@@ -199,7 +199,7 @@ Beyond internships, I actively build & compete — won **🥇 1st Place at VISAI
 
 | Achievement | Organization | Year |
 |:-----------|:------------|:----:|
-| 🥇 **1st Place** — VISAI 2026 Hackathon *(AI Email Triage)* | Vali Tech Chennai | 2026 |
+| 🥇 **1st Place** — VISAI 2026 Hackathon *(AI Email Triage)* | Vel Tech Chennai | 2026 |
 | 🌟 **Buddy Professional of the Year** | SCAD College of Engineering & Technology | 2026 |
 | 🎓 Google Cloud Gen AI Academy APAC 2026 | Google Cloud × Hack2Skill | 2026 |
 | 🚀 Bharatiya Antariksh Hackathon | ISRO × Hack2Skill | 2026 |
