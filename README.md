@@ -73,36 +73,31 @@ Beyond internships, I actively build & compete — won **🥇 1st Place at VISAI
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,flask,tailwind&perline=7&theme=dark"/>
 
 #### 🗄️ &nbsp;Databases & ORM
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=6&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" height="48"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&perline=7&theme=dark"/>
 
 #### ☁️ &nbsp;Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,vercel,render,docker,git,github&perline=6&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="48"/>
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,postman&perline=7&theme=dark"/>
 
-#### 🤖 &nbsp;AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Groq_LLaMA_3.3-FF6B35?style=flat-square&logo=meta&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/IBM_Cognos-052FAD?style=flat-square&logo=ibm&logoColor=white" height="48"/>
+#### 🤖 &nbsp;AI / ML & Data
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=7&theme=dark"/>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Groq_LLaMA-FF6B35?style=for-the-badge&logo=meta&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/IBM_Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
 
-#### 🔧 &nbsp;Tools
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,jupyter&perline=6&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Zoho_Suite-E42527?style=flat-square&logo=zoho&logoColor=white" height="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="48"/>
+#### 🔧 &nbsp;Tools & Enterprise Ecosystems
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman&perline=7&theme=dark"/>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Zoho_Suite-E42527?style=for-the-badge&logo=zoho&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 </div>
 
