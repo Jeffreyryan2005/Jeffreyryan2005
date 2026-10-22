@@ -2,7 +2,7 @@
 <!--                        HEADER                           -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,40:0d2137,70:112240,100:0a192f&height=220&section=header&text=Jeffrey%20Ryan%20R&fontSize=62&fontColor=64ffda&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Data%20Analyst&descSize=19&descAlignY=55&descAlign=50&descColor=8892b0" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,40:0d2137,70:112240,100:0a192f&height=220&section=header&text=Jeffrey%20Ryan%20R&fontSize=62&fontColor=64ffda&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Data%20Analyst&descSize=18&descAlignY=55&descAlign=50&descColor=8892b0" alt="header"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                     -->
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=750&height=48&lines=Building+GenAI+apps+with+Next.js+%26+Google+Gemini+%F0%9F%A4%96;Interned+at+Zoho+%E2%80%A2+Digisailor+%E2%80%A2+AdroIT+%E2%80%A2+Infosys+%E2%9C%85;%F0%9F%A5%87+1st+Place+%E2%80%94+VISAI+2026+Hackathon%2C+Vali+Tech+Chennai;PromptWars+%E2%80%A2+ISRO+%E2%80%A2+Microsoft+Hackathon+veteran+%F0%9F%8F%86" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=780&height=48&lines=Software+Developer+%E2%80%A2+Full+Stack+%E2%80%A2+AI+Builder+%F0%9F%9A%80;Built+Zoho+extensions+for+Desk%2C+CRM+%26+Bigin+%E2%9C%85;%F0%9F%A5%87+1st+Place+%E2%80%94+VISAI+2026+Hackathon%2C+Vali+Tech+Chennai;PromptWars+%E2%80%A2+ISRO+%E2%80%A2+Microsoft+Hackathon+veteran+%F0%9F%8F%86" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -46,9 +46,9 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-Final-year CS & Engineering student with hands-on experience across **four internships** — Zoho, Digisailor, AdroIT Technologies, and Infosys Springboard. I build AI-powered full-stack applications: not the kind that are impressive in demos and fall apart in production, but the kind that pass 120 automated tests, have proper rate limiting, CSP headers, and Zod schema validation.
+Software Developer and final-year CS & Engineering student with hands-on experience across **four internships** — Zoho Corporation, Digisailor, AdroIT Technologies, and Infosys Springboard. Specialized in full-stack architecture, API integrations, and building production-grade extensions and AI solutions (engineered custom marketplace extensions for **Zoho Desk**, **CRM**, and **Bigin** using ZET and OAuth 2.0).
 
-Outside internships I've been competing — won **🥇 1st Place at VISAI 2026** with an AI-powered email triage system, and shipped through PromptWars, ISRO's Bharatiya Antariksh, and Microsoft Agents League challenges.
+Beyond internships, I actively build & compete — won **🥇 1st Place at VISAI 2026** (Vali Tech Chennai) with an AI-powered email triage system, and delivered top solutions across PromptWars, ISRO's Bharatiya Antariksh, and Microsoft Agents League challenges.
 
 &nbsp;&nbsp;&nbsp;&nbsp;📍 &nbsp;Tirunelveli, Tamil Nadu, India &nbsp;|&nbsp; 🎓 &nbsp;B.E. CSE @ SCAD CoET (2023–27) &nbsp;|&nbsp; CGPA: **7.6**
 
@@ -144,11 +144,11 @@ Outside internships I've been competing — won **🥇 1st Place at VISAI 2026**
 <td width="50%" valign="top">
 
 ### &nbsp;🏢 Zoho Corporation
-**Marketplace Developer Intern** &nbsp;|&nbsp; `Jul 2026 – Aug 2026`
+**Software Developer / Marketplace Intern** &nbsp;|&nbsp; `Jul 2026 – Aug 2026`
 
-- 🔗 &nbsp;Built Marketplace extensions using **ZET** for Zoho CRM, Bigin & Zoho Desk
-- 📡 &nbsp;REST API integrations with **OAuth 2.0** and inter-widget communication
-- 🤖 &nbsp;Shipped **AI Customer Support Assistant** — ticket analysis, CRM context, AI replies & duplicate detection
+- 🛠️ &nbsp;Developed custom **Zoho Marketplace Extensions** using **ZET** for **Zoho CRM, Bigin & Zoho Desk**
+- 🔗 &nbsp;Implemented robust **REST API** integrations with **OAuth 2.0**, secure webhook listeners & inter-widget communication
+- 🤖 &nbsp;Engineered & shipped an **AI Customer Support Assistant** — automated ticket routing, CRM context retrieval, AI response generation & duplicate detection
 
 </td>
 <td width="50%" valign="top">
