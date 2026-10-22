@@ -1,26 +1,36 @@
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                        HEADER                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,40:0d2137,70:112240,100:0a192f&height=210&section=header&text=Jeffrey%20Ryan%20R&fontSize=58&fontColor=64ffda&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Data%20Analyst&descSize=18&descAlignY=55&descAlign=50&descColor=8892b0" alt="header"/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMATION                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:1f2937,100:0d1117&height=220&section=header&text=Jeffrey%20Ryan%20R&fontSize=58&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descSize=17&descAlignY=56&descAlign=50&descColor=8b949e" width="100%">
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Building+full-stack+apps+that+people+actually+use+%F0%9F%9A%80;Somewhere+between+web+dev+and+machine+learning+%F0%9F%A4%96;Final+year+CS+student%2C+first+year+of+the+real+world+%F0%9F%8E%93;if+(stuck)+%7B+google()+%7D+else+%7B+ship+it+%7D+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=750&height=48&lines=Building+GenAI+apps+with+Next.js+%26+Google+Gemini+%F0%9F%A4%96;Interned+at+Zoho%2C+AdroIT+%26+Infosys+Springboard+%E2%9C%85;%F0%9F%A5%87+1st+Place+%E2%80%94+VISAI+2026+Hackathon%2C+Vali+Tech+Chennai;PromptWars+%E2%80%A2+ISRO+%E2%80%A2+Microsoft+Hackathon+builder+%F0%9F%8F%86" alt="Typing SVG"/>
 
 <br/><br/>
 
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                      SOCIAL BADGES                       -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<a href="https://jeffreyryan-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=vercel&logoColor=64ffda&labelColor=0a192f"/>
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/jeffreyryan05" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
 <a href="mailto:ryanrajesh0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
 <a href="https://github.com/Jeffreyryan2005" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Jeffreyryan2005&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS&abbreviated=true" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Jeffreyryan2005&style=for-the-badge&color=64ffda&labelColor=0a192f&label=VISITORS&abbreviated=true"/>
 
 </div>
 
@@ -28,77 +38,92 @@
 
 ---
 
-## 👋 &nbsp;Who Am I
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;I'm a final-year Computer Science & Engineering student who got tired of just reading about how things work and started building them instead. These days I live somewhere between full-stack web development and machine learning — two worlds that are a lot more interesting when they crash into each other.
+## 🧑‍💻 &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;&nbsp;I care about writing code that's actually readable, shipping things that solve real problems, and contributing to open source when I can. If you catch me staring into space, I'm either debugging something in my head or sketching a system architecture I'll never need.
+Final-year CS & Engineering student with hands-on experience across three internships — Zoho, AdroIT Technologies, and Infosys Springboard. I build AI-powered full-stack applications: not the kind that are impressive in demos and fall apart in production, but the kind that pass 120 automated tests, handle real user load, and have proper security headers.
 
-&nbsp;&nbsp;&nbsp;&nbsp;📍 India &nbsp;|&nbsp; 🎓 B.E. Computer Science & Engineering &nbsp;|&nbsp; 💼 Open to opportunities
+Outside internships I've been building through hackathons — won **1st Place at VISAI 2026** with an AI email triage system, and shipped across PromptWars, ISRO's Bharatiya Antariksh, and Microsoft Agents League challenges.
 
-<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;📍 &nbsp;Tirunelveli, Tamil Nadu, India &nbsp;|&nbsp; 🎓 &nbsp;B.E. CSE @ SCAD CoET (2023–27) &nbsp;|&nbsp; CGPA: **7.6**
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+&nbsp;&nbsp;&nbsp;&nbsp;🏆 &nbsp;**Buddy Professional of the Year 2025–26** &nbsp;|&nbsp; 🌐 &nbsp;[jeffreyryan-portfolio.vercel.app](https://jeffreyryan-portfolio.vercel.app)
 
 <br/>
 
 ---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-**Languages**
+#### 👨‍💻 &nbsp;Languages
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,java,html,css&perline=7&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,java&perline=6&theme=dark" />
+#### ⚡ &nbsp;Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,flask,tailwind&perline=7&theme=dark"/>
 
-<br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs&perline=5&theme=dark" />
-
-<br/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&perline=5&theme=dark" />
-
-<br/>
-
-**ML / AI**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6&theme=dark" />
+#### 🗄️ &nbsp;Databases & ORM
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=6&theme=dark"/>
 &nbsp;
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" height="48"/>
+
+#### ☁️ &nbsp;Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,vercel,render,docker,git,github&perline=6&theme=dark"/>
 &nbsp;
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="48"/>
+
+#### 🤖 &nbsp;AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
 &nbsp;
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Groq_LLaMA-FF6B35?style=flat-square&logo=meta&logoColor=white" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/IBM_Cognos-052FAD?style=flat-square&logo=ibm&logoColor=white" height="48"/>
 
-<br/>
-
-**Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman&perline=6&theme=dark" />
+#### 🔧 &nbsp;Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,jupyter&perline=6&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Zoho_Suite-E42527?style=flat-square&logo=zoho&logoColor=white" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="48"/>
 
 </div>
 
 <br/>
 
 ---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Jeffreyryan2005/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffreyryan2005&repo=portfolio&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&description_lines_count=2" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Jeffreyryan2005/PathFinder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeffreyryan2005&repo=PathFinder&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&description_lines_count=2" />
-</a>
+| 🏗️ Project | 📋 What It Does | 🛠️ Stack |
+|:-----------|:---------------|:---------|
+| [**📧 AI Email Triage System**](https://github.com/Jeffreyryan2005) | AI email classification system for automated ticket routing. **🥇 1st Place — VISAI 2026 Hackathon**, Vali Tech Chennai. | `Python` `FastAPI` `TF-IDF` `VADER` `ML` |
+| [**🎉 CelebrationAI**](https://github.com/Jeffreyryan2005) | Real-time AI event planner with budget engine, milestone timelines & vendor pipeline. Enterprise-grade: CSP, rate limiting, Zod validation, **120 passing tests**. | `Next.js 16` `TypeScript` `Gemini 2.5 Flash` `Tailwind` |
+| [**🛒 Amazon Market Gap Detector**](https://github.com/Jeffreyryan2005) | ML-powered market analysis using RapidAPI live data. Predicts business opportunities using TF-IDF similarity, VADER sentiment & weighted scoring. | `FastAPI` `React` `Python` `scikit-learn` |
+| [**🧭 SkillForge**](https://github.com/Jeffreyryan2005) | AI Career Skill Gap Analyzer — skill match score, radar chart, personalized 30-day learning plan. Built solo in **~2 days** at Microsoft Agents League. | `Next.js 14` `Flask` `Groq LLaMA 3.3 70B` `Framer Motion` |
+| [**⚽ FIFA 26 Smart Guide**](https://github.com/Jeffreyryan2005) | Multilingual GenAI stadium guide across 5 languages. Real-time crowd dashboard, WCAG 2.1 compliant, Web Speech API TTS. | `Node.js` `Express` `Google Gemini` `HTML/CSS/JS` |
+| [**🗺️ PathFinder**](https://github.com/Jeffreyryan2005/PathFinder) | Route optimization engine with A*, Dijkstra's & BFS implementations. Live route visualization on OpenStreetMap. | `Python` `DSA` `Maps API` |
 
 </div>
 
@@ -106,22 +131,123 @@
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                 PROFESSIONAL EXPERIENCE                  -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 💼 &nbsp;Professional Experience
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp;🏢 Zoho Corporation
+**Marketplace Developer Intern** &nbsp;|&nbsp; `Jul 2026 – Aug 2026`
+
+- 🔗 &nbsp;Built Marketplace extensions using **ZET** for Zoho CRM, Bigin & Zoho Desk
+- 📡 &nbsp;Integrated **REST APIs** with OAuth 2.0 and inter-widget communication
+- 🤖 &nbsp;Final project: **AI-Powered Customer Support Assistant** — unified ticket analysis, CRM context, AI-generated replies & duplicate detection
+
+</td>
+<td width="50%" valign="top">
+
+### &nbsp;🏢 AdroIT Technologies
+**Data Analysis Intern** &nbsp;|&nbsp; `Mar 2026 – Apr 2026`
+
+- 📊 &nbsp;Built interactive dashboards & reports using **IBM Cognos Analytics**
+- 🔍 &nbsp;Analyzed datasets to derive actionable business insights for decision-making
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp;🏢 Infosys Springboard
+**Web Developer Intern** &nbsp;|&nbsp; `Oct 2025 – Dec 2025`
+
+- 🗳️ &nbsp;Built a civic engagement platform with **role-based access control** and real-time voting
+- 🗄️ &nbsp;Designed database schemas and optimized backend workflows for scalability
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--              ACHIEVEMENTS & CERTIFICATIONS               -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp;Achievements & Certifications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jeffreyryan2005&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyryan2005&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" height="175"/>
+**🏅 Hackathons & Awards**
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Jeffreyryan2005&theme=github-dark-blue&border=30363d&background=0d1117&fire=FF6B6B&ring=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" height="175"/>
+| Achievement | Organization | Year |
+|:-----------|:------------|:----:|
+| 🥇 **1st Place** — VISAI 2026 Hackathon (AI Email Triage) | Vali Tech Chennai | 2026 |
+| 🌟 **Buddy Professional of the Year** | SCAD College of Engineering & Technology | 2026 |
+| 🚀 Bharatiya Antariksh Hackathon Participant | ISRO × Hack2Skill | 2026 |
+| 🤖 Microsoft Agents League Hackathon | Microsoft × GitHub Copilot | 2026 |
+| ⚽ PromptWars — GenAI for FIFA World Cup 2026 | Google for Developers × Hack2Skill | 2026 |
+| 🎓 Google Cloud Gen AI Academy APAC 2026 | Google Cloud × Hack2Skill | 2026 |
+| 🌱 PromptWars — Sustainability AI Challenge | Hack2Skill | 2026 |
+| 🗳️ PromptWars — Civic Tech AI Challenge | Hack2Skill | 2025 |
 
 </div>
 
 <br/>
 
+<div align="center">
+
+**📜 Certifications**
+
+| Certificate | Issuer | Year |
+|:-----------|:-------|:----:|
+| ☁️ AWS Machine Learning Associate — Exam Prep | Coursera | 2026 |
+| 🔗 Blockchain Technology | **NPTEL** | 2025 |
+| 🔐 Cyber Security | **NPTEL** | 2025 |
+| ☁️ Cloud Computing | **NPTEL** | 2025 |
+| 🧑‍💻 Meta Full Stack Developer | Coursera | 2025 |
+| 📊 DSA Specialization | UC San Diego × Coursera | 2025 |
+| 💡 Master The Art of Full Stack Development | GUVI × IITM Research Park | 2024 |
+| 📈 PwC Switzerland Power BI Job Simulation | Forage | 2024 |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeffreyryan2005&theme=github-dark-blue&border=30363d&background=0d1117&fire=64ffda&ring=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jeffreyryan2005&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyryan2005&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" height="175"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION SNAKE                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🐍 &nbsp;Contribution Snake
 
@@ -129,7 +255,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeffreyryan2005/Jeffreyryan2005/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeffreyryan2005/Jeffreyryan2005/output/github-contribution-grid-snake.svg">
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Jeffreyryan2005/Jeffreyryan2005/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Jeffreyryan2005/Jeffreyryan2005/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -137,28 +263,36 @@
 
 ---
 
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    LET'S CONNECT                         -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
 ## 📬 &nbsp;Let's Connect
 
-I'm always open to collaborating on something meaningful, talking tech, or just a good conversation about ideas that might go nowhere — those are usually the best ones.
+Open to collaborating on AI products, full-stack builds, or anything that actually ships. Also happy to talk hackathon strategy, internships, or just good engineering conversations.
 
 <div align="center">
 
+<a href="https://jeffreyryan-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Portfolio-0a192f?style=for-the-badge&logo=vercel&logoColor=64ffda"/>
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/jeffreyryan05" target="_blank">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
 <a href="mailto:ryanrajesh0@gmail.com">
-  <img src="https://img.shields.io/badge/Drop%20Me%20a%20Mail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drop%20Me%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-*Response time: faster than my compile errors.* ⚡
+*⭐ If any of my projects helped you, a star goes a long way.*
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:1f2937,100:0d1117&height=130&section=footer" width="100%">
-</div>
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                        FOOTER                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,40:0d2137,70:112240,100:0a192f&height=130&section=footer" alt="footer"/>
